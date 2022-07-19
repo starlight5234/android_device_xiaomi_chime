@@ -113,8 +113,7 @@ PRODUCT_PACKAGES += \
     libcamera2ndk_vendor \
     libdng_sdk.vendor \
     libstdc++.vendor \
-    libgui_vendor \
-    libxml2
+    libgui_vendor
 
 PRODUCT_PACKAGES += \
     Snap
